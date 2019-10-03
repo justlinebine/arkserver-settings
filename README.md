@@ -6,7 +6,7 @@ Außerdem zeigt es euch auch spätere Änderungen an.
 
 ## Mods
 
-# Ragnarok
+### Ragnarok
 [Advanced Architecture Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=539464369 "Steam Link")
 
 [Awesome SpyGlass!](https://steamcommunity.com/sharedfiles/filedetails/?id=1404697612 "Steam Link")
@@ -26,7 +26,7 @@ Außerdem zeigt es euch auch spätere Änderungen an.
 [Platforms Plus (Open Source)](https://steamcommunity.com/sharedfiles/filedetails/?id=719928795 "Steam Link")
 
 
-# Valguero
+### Valguero
 [Advanced Architecture Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=539464369 "Steam Link")
 
 [Awesome SpyGlass!](https://steamcommunity.com/sharedfiles/filedetails/?id=1404697612 "Steam Link")
